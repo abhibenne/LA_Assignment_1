@@ -1,2 +1,2 @@
-# LA_Assignment_1
+# Scilab Assignments
 Linear Algebra assignment based on scilab
